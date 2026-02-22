@@ -5,96 +5,57 @@
 *Security researcher · Bug bounty hunter · Developer*
 
 [![Website shields.io badge](https://img.shields.io/badge/status-active-success?style=for-the-badge&logo=appveyor)](#)
-[![Top Languages](https://img.shields.io/badge/top%20skills-Go%20%7C%20JS-blue?style=for-the-badge)](#)
-[![License](https://img.shields.io/github/license/0xRahim/portfolio?style=for-the-badge&color=green)](#)
-
+[![Top Languages](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white)](#)
+[![Top Languages](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 ---
 
-![banner](https://raw.githubusercontent.com/vanzasetia/vanzasetia/main/images/banner.jpg)
-
-A pragmatic, security-first developer focused on finding real-world vulnerabilities in web and mobile apps. I split my time between auditing client-side logic, reviewing Golang APIs, and hunting OAuth and mobile vulnerabilities — while also shipping polished, accessible front-end work when needed.
+<p align="right">
+  <img src="https://raw.githubusercontent.com/0xRahim/0xRahim/refs/heads/main/banner.gif" width="400" />
+</p>
+Pragmatic, security-first developer with a passion for uncovering real-world vulnerabilities in web and mobile applications. I spend my time auditing business logic, hunting OAuth and web-layer flaws, and building practical, security-conscious products that solve real problems..
 
 ---
 
 ## Quick badges / social
 [![GitHub followers](https://img.shields.io/github/followers/0xRahim?label=follow&style=for-the-badge&logo=github)](https://github.com/0xRahim)
-[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Profile-informational?style=for-the-badge&logo=frontendmentor)](https://www.frontendmentor.io/profile/0xRahim)
-[![Twitter Follow](https://img.shields.io/twitter/follow/0xRahim?style=for-the-badge&logo=twitter)](https://twitter.com/0xRahim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/0xRahim)
+[![Twitter Follow](https://img.shields.io/twitter/follow/0xRahim?style=for-the-badge&logo=twitter)](https://x.com/0xRahim_)
 [![HackerOne](https://img.shields.io/badge/HackerOne-Profile-black?style=for-the-badge&logo=hackerone)](https://hackerone.com/0xRahim)
 
 ---
 
 ## What I do
+- I develop low-level systems and performance-critical projects in Rust.
+- I build full-stack web applications using Next.js.
+- I create native Android applications with Java and Kotlin.
 - Hunt for vulnerabilities in **Android**, **web**, and **web3** applications.  
-- Audit OAuth flows, API designs (Golang), and client-side auth logic.  
-- Produce clear, actionable reports and remediation guidance for teams and programs.  
-- Ship readable, accessible front-end UIs and maintain clean documentation.
+- Audit OAuth flows, API designs , and client-side/server-side auth logic.  
 
 ---
 
-## Core skills & tools
-- **Security & Auditing:** Threat modeling, OAuth analysis, manual review, exploit PoC.  
-- **Languages & Tech:** Go (Golang), Java, JavaScript, HTML/CSS, Bash.  
-- **Tools:** Burp Suite, adb, static & dynamic analysis toolchains.  
-- **Developer:** Git workflows, code reviews, reproducible reports.  
-- **Design & Docs:** Accessible interfaces, concise README & PoC writeups.
-
+## Core Skills & Tools
+- **Backend & Systems:** Design and build scalable services, APIs, and system components with performance and reliability in mind.  
+- **Languages & Technologies:** Develop production-ready software using Rust, JavaScript.   
+- **Web & Application Development:** Architect and implement full-stack applications with clean structure and maintainable codebases.  
+- **Tooling & Workflow:** Use Git-based workflows, structured code reviews, CI-friendly practices, and reproducible builds.  
+- **Security & Auditing:** Perform threat modeling, analyze OAuth flows, conduct manual code reviews, and develop exploit PoCs.  
 ---
 
 ## Focus areas
-- OAuth misconfigurations & logic flaws  
-- Insecure client-side token handling  
-- API security reviews (Golang)  
-- Android app vulnerabilities (intents, storage, manifest)  
-- High-quality report writing and remediation
+- Building performance focused applications in rust
+- Coding native android applications.
+- API security reviews and secure coding practices 
 
 ---
 
 ## Selected projects & write-ups
-- **Golang API audits** — authentication, session, rate-limit checks (PoC + remediation).  
-- **Android audits** — manifest hardening, intent misuses, secure storage checks.  
-- **Client-side auth analyses** — token flows, redirect handling, postMessage pitfalls.  
-
-(Links to public write-ups and PoCs are included in the repository's `projects/` folder.)
+- [**Phrase**](https://github.com/0xRahim/PHRASE) — CLI password manager
+- [**TradeNote**](https://github.com/0xRahim/TradeNote) - Trade journaling and account tracking application
+- [**Blog**](https://0xrahim.github.io/blog/) — My blog posts on application security
 
 ---
 
-## How I work
-1. **Triage** — reproduce and classify severity.  
-2. **Proof** — produce minimal PoC to demonstrate impact.  
-3. **Remediate** — recommend concrete, testable fixes.  
-4. **Follow-up** — verify fixes and update reports.
-
----
-
-## Writing & community
-I publish concise, reproducible write-ups that prioritize remediation. I review public submissions, mentor juniors, and keep notes that make fixes straightforward for maintainers.
-
----
-
-## Contact & disclosure
+## Socials 
 - GitHub: `https://github.com/0xRahim`  
-- Twitter: `https://twitter.com/0xRahim`  
-- LinkedIn: `https://www.linkedin.com/in/0xRahim`  
-- For sensitive reports / coordinated disclosure, use the program’s private channel or my repo contact methods.
+- Twitter: `https://twitter.com/0xRahim_`  
 
----
 
-## Quick facts
-- I balance active research with shipping developer-friendly docs.  
-- My public reports focus on reproducibility and small, testable fixes.  
-- I enjoy puzzles and system-level thinking (sudoku helps!).
-
----
-
-<p align="right">Last updated: 2026-02-22</p>
-
-<!-- Optional: small footer with logos -->
-<div align="center">
-  <a href="https://github.com/0xRahim"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub"/></a>
-  &nbsp;
-  <a href="https://www.frontendmentor.io"><img src="https://assets-global.website-files.com/5e9d2b5f8d6a1e4f9ef8b5f1/5efb9a9a0ef5f6e0f8d8f0a9_frontendmentor-logo.svg" width="100" alt="Frontend Mentor"/></a>
-  &nbsp;
-  <a href="https://twitter.com/0xRahim"><img src="https://abs.twimg.com/favicons/twitter.2.ico" width="40" alt="Twitter"/></a>
-</div>
