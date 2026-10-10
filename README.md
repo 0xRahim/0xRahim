@@ -1,7 +1,7 @@
 <!-- README.md for 0xRahim -->
 
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:58a6ff&height=220&section=header&text=0xRahim&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=backend%20developer%20%E2%80%A2%20rust%20%E2%80%A2%20apis%20%E2%80%A2%20secure%20by%20default&descSize=18&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:58a6ff&height=220&section=header&text=0xRahim&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=build%20things%20%E2%80%A2%20break%20things%20%E2%80%A2%20secure%20things&descSize=18&descAlignY=60&animation=fadeIn" />
 
 <div align="center">
 
